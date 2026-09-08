@@ -1,4 +1,11 @@
 Entries:
+  - author: MattFright
+    changes:
+      - type: Fix
+        message: 'Atlas: Station screens should properly display the timer to evac now'
+    id: 166
+    time: '2026-09-08T15:22:51.0000000+00:00'
+    url: https://github.com/QuantumBlueSS14/Quantum-Blue-New/pull/222
   - author: rebe83
     changes:
       - type: Add
