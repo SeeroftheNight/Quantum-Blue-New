@@ -2,6 +2,13 @@ Entries:
   - author: MattFright
     changes:
       - type: Fix
+        message: 'Dash: Fixed the messed up engi substation/smes cables'
+    id: 167
+    time: '2026-09-08T15:23:05.0000000+00:00'
+    url: https://github.com/QuantumBlueSS14/Quantum-Blue-New/pull/221
+  - author: MattFright
+    changes:
+      - type: Fix
         message: 'Atlas: Station screens should properly display the timer to evac now'
     id: 166
     time: '2026-09-08T15:22:51.0000000+00:00'
