@@ -2,6 +2,13 @@ Entries:
   - author: MattFright
     changes:
       - type: Fix
+        message: 'Dash: Engi substation actually works now i SWEAR'
+    id: 168
+    time: '2026-09-11T18:14:01.0000000+00:00'
+    url: https://github.com/QuantumBlueSS14/Quantum-Blue-New/pull/225
+  - author: MattFright
+    changes:
+      - type: Fix
         message: 'Dash: Fixed the messed up engi substation/smes cables'
     id: 167
     time: '2026-09-08T15:23:05.0000000+00:00'
