@@ -1,4 +1,15 @@
 Entries:
+  - author: Ecramox
+    changes:
+      - type: Tweak
+        message: Fixed the sprites in the RCD menu!
+      - type: Tweak
+        message: Fixed the sprites in the lathe menu!
+      - type: Tweak
+        message: Fixed the sprite of the atmos PDA!
+    id: 169
+    time: '2026-09-11T18:20:29.0000000+00:00'
+    url: https://github.com/QuantumBlueSS14/Quantum-Blue-New/pull/223
   - author: MattFright
     changes:
       - type: Fix
