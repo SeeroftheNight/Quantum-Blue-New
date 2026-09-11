@@ -1,4 +1,11 @@
 Entries:
+  - author: rebe83
+    changes:
+      - type: Add
+        message: Added a recipe for roast diona nymph
+    id: 170
+    time: '2026-09-11T18:37:00.0000000+00:00'
+    url: https://github.com/QuantumBlueSS14/Quantum-Blue-New/pull/224
   - author: Ecramox
     changes:
       - type: Tweak
